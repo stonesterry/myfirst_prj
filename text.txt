@@ -2,4 +2,8 @@ hello test
 test command --git pull
 
 do branch test
+<<<<<<< Updated upstream
 on the web, wo do some modified.on the server, don't pull, just commit.some erro happen?
+=======
+tets
+>>>>>>> Stashed changes
